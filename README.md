@@ -77,7 +77,7 @@ Most attrition seen among 30–35 year-olds.
 
 Research Scientist and Sales Executive have mixed satisfaction levels.
 
-🛠️ Tools Used
+ Tools Used
 
 Tableau Desktop / Tableau Public – Data visualization and dashboard creation
 
@@ -85,7 +85,7 @@ Excel / CSV – Data storage and cleaning
 
 Power Query / Excel Functions – Data preprocessing
 
-🚀 How to Open the Project
+ How to Open the Project
 Option 1: Open with Tableau Desktop
 
 Clone or download this repository:
@@ -105,9 +105,9 @@ Option 2: View Online
 
 If published on Tableau Public, include your link here:
 
-🔗 View the Dashboard on Tableau Public
+ View the Dashboard on Tableau Public
 
-📈 Summary of Insights
+ Summary of Insights
 
 The R&D Department shows the highest attrition rate.
 
